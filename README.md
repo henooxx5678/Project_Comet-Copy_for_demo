@@ -19,3 +19,6 @@ Steer your spaceship to look for an ideal planet in Star Tracer, an action-fille
 - Chart Designer: Koway
 
 **Game page** on itch.io: https://game-beacon.itch.io/star-tracer
+
+
+\*Due to this repository is going to be public, the paid package *All In 1 Sprite Shader* which originally located in `/Assets/_Visual Display` had been removed.

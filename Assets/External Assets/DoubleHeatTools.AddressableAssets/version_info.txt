@@ -1,0 +1,5 @@
+v1.0.1:
+- change directory structure (move ScenesLoadingManager.cs under "/Runtime/")
+
+v1.0.0:
+- add SceneManagement/ScenesLoadingManager.cs

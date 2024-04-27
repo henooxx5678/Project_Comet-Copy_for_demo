@@ -1,0 +1,16 @@
+*v1.0.4:
+- update KeystrokeEventsHandler.cs
+
+v1.0.3:
+- modify KeystrokeEventsHandler.cs
+- modify StackedKeystrokeEventsHandler.cs
+- add SecretCodeHandler.cs
+
+v1.0.2:
+- change namespace
+
+v1.0.1:
+- Runtime/
+    - KeystrokeEventsHandling/
+        - KeystrokeEventsHandler.cs
+        - StackedKeystrokeEventsHandler.cs

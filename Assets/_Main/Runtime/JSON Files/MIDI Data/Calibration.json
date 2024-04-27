@@ -1,0 +1,80 @@
+{
+  "header": {
+    "PPQ": 96,
+    "bpm": 115.00002875000719,
+    "timeSignature": [
+      4,
+      4
+    ],
+    "name": ""
+  },
+  "tempo": [
+    {
+      "absoluteTime": 0,
+      "seconds": 0,
+      "bpm": 115.00002875000719
+    }
+  ],
+  "timeSignature": [
+    {
+      "absoluteTime": 0,
+      "seconds": 0,
+      "numerator": 4,
+      "denominator": 2,
+      "click": 24,
+      "notesQ": 8
+    }
+  ],
+  "startTime": 0,
+  "duration": 8.331519656249998,
+  "tracks": [
+    {
+      "startTime": 0,
+      "duration": 0,
+      "length": 0,
+      "notes": [],
+      "controlChanges": {},
+      "id": 0
+    },
+    {
+      "startTime": 1.5652169999999999,
+      "duration": 8.331519656249998,
+      "length": 4,
+      "notes": [
+        {
+          "name": "C4",
+          "midi": 60,
+          "time": 1.5652169999999999,
+          "velocity": 0.4094488188976378,
+          "duration": 0.5054346562500001
+        },
+        {
+          "name": "C4",
+          "midi": 60,
+          "time": 3.6521729999999994,
+          "velocity": 0.4094488188976378,
+          "duration": 0.5054346562500003
+        },
+        {
+          "name": "C4",
+          "midi": 60,
+          "time": 5.739128999999999,
+          "velocity": 0.4094488188976378,
+          "duration": 0.5054346562500003
+        },
+        {
+          "name": "C4",
+          "midi": 60,
+          "time": 7.826084999999999,
+          "velocity": 0.4094488188976378,
+          "duration": 0.5054346562499994
+        }
+      ],
+      "controlChanges": {},
+      "id": 1,
+      "name": "Kick 1",
+      "channelNumber": 0,
+      "isPercussion": false
+    }
+  ]
+}

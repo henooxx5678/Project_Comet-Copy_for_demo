@@ -1,0 +1,69 @@
+{
+    "name": "System Hotkeys",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "a561a37f-dbff-4ddc-b73f-593de72a4b37",
+            "actions": [
+                {
+                    "name": "Options",
+                    "type": "Button",
+                    "id": "d39e55b2-f666-4a0b-b94f-7e6e73020344",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Tutorial",
+                    "type": "Button",
+                    "id": "0bcf4fe5-aed1-49ba-948a-e239ccbc417d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9b46e2fd-e151-49e9-90a9-b01665d8f493",
+                    "path": "<Keyboard>/o",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard & Mouse",
+                    "action": "Options",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c6b0a6ae-c89b-4796-b111-95322d0ce090",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard & Mouse",
+                    "action": "Tutorial",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard & Mouse",
+            "bindingGroup": "Keyboard & Mouse",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": true,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

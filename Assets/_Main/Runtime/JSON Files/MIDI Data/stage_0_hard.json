@@ -1,0 +1,38 @@
+{
+  "header": {
+    "bpm": 150,
+    "keySignatures": [],
+    "meta": [],
+    "name": "",
+    "ppq": 96,
+    "tempos": [
+      {
+        "bpm": 162.000162000162,
+        "ticks": 0
+      }
+    ],
+    "timeSignatures": [
+      {
+        "ticks": 0,
+        "timeSignature": [
+          4,
+          4
+        ],
+        "measures": 0
+      }
+    ]
+  },
+  "tracks": [
+  	{
+      "channel": 1,
+      "name": "x",
+  	  "notes": [
+        {
+          "duration": 3,
+          "midi": 62,
+          "time": 1
+        }
+      ]	
+  	}
+  ]
+}

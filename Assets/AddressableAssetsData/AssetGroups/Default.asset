@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  m_GroupName: Default
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0721ca26179617648841eb022ad5b6b0
+  m_SerializeEntries:
+  - m_GUID: feec650c1a7db2840b58d80cf4a22dd2
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Object.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: 7a045038241424849a7aaeb72f46d2ae
+    m_Address: Assets/_Main/Runtime/Prefabs/Notes/Note Object (Hold).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: dcc63d4ded234d64b841ab30045ba525
+    m_Address: Assets/_Main/Runtime/Prefabs/Notes/Note Object (Tap Combination).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: 5cbeae4cfbd5d28489b5b7a37bbf55f1
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Event VFX/Note Hit VFX (Tap).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: be7c46cce90843a4b88cfc62f85b753d
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Event VFX/Note Hit VFX (Hold).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: a7a5b1a2688fec24caec4dc08243125f
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Event VFX/Note Hit VFX (Tap
+      Combination).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: 0774e1b5d9eb0e04bbc16469b4538477
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Event VFX/Note Spark VFX
+      (Hold).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: fe9c7a900736d94418b2e25187be27db
+    m_Address: Assets/_Main/Runtime/Prefabs/Notes/Note Object (Monster).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: becd4143a64df95468cd80831a1c3db3
+    m_Address: Assets/_Audios/Level Songs/stage_1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 1aee18d737f0a5a4c87ea5b844c98b8b
+    m_Address: Assets/_Audios/Level Songs/stage_2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 3e1f174adfd831b418dccefb409adcd8
+    m_Address: Assets/_Audios/Level Songs/stage_3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 1261912e42a551046b31d5a020c8b46b
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Percision Rank VFX/Percision
+      Rank VFX (Perfect).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: ed24cb8338c3b38428976e685e614dfc
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Percision Rank VFX/Percision
+      Rank VFX (Good).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: d8acb325be0a34b43a90276ed8b30976
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Percision Rank VFX/Percision
+      Rank VFX (Miss).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: e0f3df7bca15113418e8db3c32bd70a1
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Percision Rank VFX/Percision
+      Rank VFX (Safe).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: df83c2fffee3baa42a796d9e3b0cafa4
+    m_Address: Assets/_Main/Runtime/Prefabs/Note Strike Percision Rank VFX/Percision
+      Rank VFX (Fail).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - display_object
+  - m_GUID: 8f65b91bc457f654faccfd86d4e56bdf
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_1_easy.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 3fa71e62e81b89d45a81c888343aec73
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_1_hard.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 801c71dbe0e634746abd4468d450b8ee
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_2_easy.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: c2a077a9ab6f5624fabced4545cb5ec9
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_2_hard.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 617b04ea03349a3419f2b5b1de9eadec
+    m_Address: Assets/_Main/Runtime/Scenes/Menu Scene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19cd9afc25b1b1f48afdb63cfb047b28
+    m_Address: Assets/_Main/Runtime/Scenes/Game Play Scene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 803d67057b0d0dd4aa8ee3150c093541
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_3_hard.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 84a2685c1f6329a40b23fbc8025b1817
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_3_easy.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - level_data
+  - m_GUID: 8d026b497f49e5a4b9c8ffb25ec531e0
+    m_Address: Assets/_Main/Runtime/Prefabs/UI Objects/Story Stage01 End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 325172f580f4c404da0b61b209046c6d
+    m_Address: Assets/_Main/Runtime/Prefabs/UI Objects/Story Stage02 End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78da7c7aee5c6234da468d480f155553
+    m_Address: Assets/_Main/Runtime/Prefabs/UI Objects/Story Stage03 End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ba4b78f19012f44b9f53f560c6c3bba
+    m_Address: Assets/_Audios/Mixers/Master Mixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a884d80811d932438da38230888272e
+    m_Address: Assets/_Main/Runtime/Scenes/Init Scene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbc2afba7bf070546830d70937ec2437
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_0_easy.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1f7accec2bdde6478b562e82b1733f2
+    m_Address: Assets/_Main/Runtime/JSON Files/MIDI Data/stage_0_hard.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6e8007d31a99e4647869f9d807dfaf0f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f21e82c76ca53e042a59ead2bfbfcb86, type: 2}
+    - {fileID: 11400000, guid: 3a10f6b5bda123b41bedc557279bca24, type: 2}

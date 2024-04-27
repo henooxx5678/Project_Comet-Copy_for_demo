@@ -1,0 +1,57 @@
+*v2.0.2:
+- update CoroutineTools.cs
+- udpate SelectableByPointerEnter.cs
+= update FirstSelectingController.cs
+
+v2.0.1:
+- add UI/FirstSelectingController.cs
+- change Serialization/SerializationManager.cs
+- add Common/MonoBehaviourEventsEmitter.cs
+- add Debuging/SimpleTimeScaler.cs
+- modify Utilites/MonoBehavioursTools.cs
+
+v2.0.0:
+- seprate UtiliyTools.cs to many individual scripts into "Utilites/"
+- add Utilites/MonoBehavioursTools.cs
+- add Utilites/IMonoBehaviourAttached.cs
+- add Debugging/DebugLogEmitter.cs
+- add UI/SelectableByPointerEnter.cs
+- add UI/TextDisplayTools.cs
+
+v1.7.1:
+- remove "Common Scripts"
+- add DestroyingHandler.cs
+- add DelayedEventsEmiter.cs
+- add IntRange.cs
+- rearrange structure & namespaces
+
+v1.7.0:
+- add BoundsArea.cs & BoundsAreaEditor.cs
+
+v1.6.0:
+- add CoroutineSequencer.cs
+
+v1.5.0:
+- change directory name "Static Classes/Utilities" to "Static Class/Extensions"
+- add CoroutineTools & "CoolingDown" in Utilities.cs
+
+v1.4.0:
+- add TransformExtension: SwitchParent
+- add TransformExtension: DestroyAllChildren
+- add TransformExtension: DestroyImmediateAllChildren
+- seprate RectTransformExtensions
+- category "Editor" & "Runtime"
+- add LayerAttribute & LayerAttributePropertyDrawer
+- change TransformExtension: "SetScale" to "SetLocalScale"
+- re-arrange Utilities & Extensions
+- add GameObjectExtensions
+- add RigidbodyExtensions
+
+v1.3.0:
+- add LineRendererArrowHandler.cs
+
+v1.2.1:
+- modified MonoBehaviours/CircleLineDrawer.cs
+
+v1.2.0:
+- add MonoBehaviours/CircleLineDrawer.cs
